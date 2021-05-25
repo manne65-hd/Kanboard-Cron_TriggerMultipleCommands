@@ -6,7 +6,7 @@ Skeleton for a plugin that adds a new custom "batch"-command to the CLI-interfac
 ### Purpose of this plugin
 This is not meant to be a _(really)_ productive plugin, but rather the starting point if you want to develop a plugin that adds a new custom "batch"-command to the CLI-interface of Kanboard. An example for a "batch"-command is the built-in **cronjob**-CLI-command.
 
-This example shows you how to run core-CLI-commands along with custom CLI-commands all triggerd from one new "batch"-command.
+This example shows you how to run core-CLI-commands along with custom CLI-commands all triggered from one new "batch"-command.
 
 In order for the DEMO to work, you also have to install the following 2 plugins:
  - https://github.com/manne65-hd/Kanboard-Cron_SingleCustomCommand
